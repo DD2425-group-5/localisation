@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <name>models</name>
+  <version>0.0.0</version>
+  <description>The models package</description>
+ 
+  <maintainer email="yavor@todo.todo">yavor</maintainer>
+
+
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+  <build_depend>ras_arduino_msgs</build_depend>
+  <run_depend>ras_arduino_msgs</run_depend>
+  <build_depend>rosutil</build_depend>
+  <run_depend>rosutil</run_depend>
+
+
+  <export>
+
+  </export>
+</package>
